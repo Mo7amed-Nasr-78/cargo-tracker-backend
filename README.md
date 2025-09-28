@@ -20,3 +20,12 @@ It is built with **Node.js, Express, MongoDB**, and integrates with:
 - Node.js + Express
 - MongoDB + Mongoose
 - Axios (for OSRM & Nominatim requests)
+
+---
+
+## ⚙️ Installation
+
+### 1. Clone the repository
+```bash
+git clone https://github.com/your-username/cargo-tracker-backend.git
+cd cargo-tracker-backend
